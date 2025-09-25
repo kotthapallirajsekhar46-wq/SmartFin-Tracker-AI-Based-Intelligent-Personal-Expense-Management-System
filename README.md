@@ -1,0 +1,2 @@
+# SmartFin-Tracker-AI-Based-Intelligent-Personal-Expense-Management-System
+ Conventional expense tracking methods, such as manual entry in notebooks, spread  sheets, or basic mobile applications, pose significant limitations in effectively managing  personal finances. Users frequently encounter challenges including data inaccuracy, time consuming record-keeping, inadequate security of sensitive financial information
